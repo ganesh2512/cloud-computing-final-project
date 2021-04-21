@@ -1,6 +1,4 @@
 boto3==1.17.54
 Flask==1.1.2
 Flask-Login==0.5.0
-gunicorn==20.1.0
-torch==1.8.1
 torchvision.torchvision
